@@ -1,0 +1,1 @@
+{"type":"python","detailedtype":"empty","author":"5195097_l74i6_github","name":"sideng","description":"","date":"2016/2/18 6:8:17","storage":"container","plugins":{"goorm.plugin.python":{"plugin.python.compiler_type":"python2","plugin.python.main":"main","plugin.python.source_path":"","plugin.python.run_on":"console","plugin.python.run_option":""}},"is_user_plugin":false}
